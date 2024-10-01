@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "166433443473-oc1dn5g0n99472gqvlsrog66o2g9kelt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexkorchatapp",
+            "certificate_hash": "6ff00beae08cc576c8662461e42d8703a8efc284"
+          }
+        },
+        {
           "client_id": "166433443473-glahoub9kddvfkqmc25p3ska8p6l3oa3.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -37,6 +45,13 @@
             {
               "client_id": "166433443473-glahoub9kddvfkqmc25p3ska8p6l3oa3.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "166433443473-nipln8arac3bka7vlernnvimc5c7octi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dexkorchatapp.RunnerTests"
+              }
             }
           ]
         }
